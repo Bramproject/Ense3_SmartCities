@@ -13,7 +13,7 @@ Repository content:
 - README.md : read me file
 - building_modelling.ipynb : jupyter notebook with the code and report for this project.
 - dm4bem.py : additional methods that are used in the notebook.
-- FRA_Lyon.074810_IWEC.epw : dataset containing wheater data of Lyon.
+- FRA_Lyon.074810_IWEC.epw : dataset containing weather data of Lyon.
 - environment.yml : states the needed python modules for running the notebook.
 - /images : contains png images that are displayed in the notebook.
 
